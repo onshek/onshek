@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data analyst using Python, CPP, Hive and machine learning skills.
+I'm a data analyst using Python, CPP, Hive and machine learning tools.
 
 - 🚀 Contribution to: 
   [@pandas](https://github.com/pandas-dev/pandas) --> 
