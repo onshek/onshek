@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data analyst using Python, CPP, Hive and machine learning skills.
+
+- 🚀 Contribution to: 
+  [@pandas](https://github.com/pandas-dev/pandas) --> 
+  [#36094](https://github.com/pandas-dev/pandas/pull/36094)
+  [#35941](https://github.com/pandas-dev/pandas/pull/35941)
+  [#35885](https://github.com/pandas-dev/pandas/pull/35885)
+
+- ⚡ How to reach me: 
+  ![](https://img.shields.io/github/followers/onshek?style=social)
+  ![](https://img.shields.io/badge/%E7%9F%A5-Honfung.Wong-_&?labelColor=blue&?link=https://www.zhihu.com/people/ipreacher&link=https://www.zhihu.com/people/ipreacher)
+
+![](https://github-readme-stats.vercel.app/api?username=onshek&theme=dark)
