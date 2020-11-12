@@ -19,6 +19,7 @@ I'm a data analyst using Python, CPP, Hive and machine learning tools.
 
 🚀 Open Source Contributions 
 - [[pandas-dev](https://github.com/pandas-dev)/[pandas](https://github.com/pandas-dev/pandas)] --> 
+  [#37762](https://github.com/pandas-dev/pandas/pull/37762)
   [#37492](https://github.com/pandas-dev/pandas/pull/37492)
   [#37117](https://github.com/pandas-dev/pandas/pull/37117)
   [#37103(closed)](https://github.com/pandas-dev/pandas/pull/37103)
