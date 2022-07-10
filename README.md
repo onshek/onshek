@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data analyst using Python, CPP, Hive and machine learning tools.
+I'm a data scientist using Python, Groovy, Hive and Spark.
 
 🚀 Open Source Contributions 
 - [[pandas-dev](https://github.com/pandas-dev)/[pandas](https://github.com/pandas-dev/pandas)] --> 
